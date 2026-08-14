@@ -8,6 +8,10 @@
 *.so
 *.dylib
 
+# Internal && OS
+.DS_Store
+.idea/git_toolbox_prj.xml
+
 # Test binary, built with `go test -c`
 *.test
 
